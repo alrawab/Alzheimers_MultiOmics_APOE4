@@ -1,0 +1,14 @@
+# Data
+/data/raw/
+*.bam
+*.fastq
+
+# R/Python
+*.RData
+*.pyc
+__pycache__
+
+# IDE
+.DS_Store
+.idea
+.vscode
